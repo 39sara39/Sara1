@@ -1,0 +1,102 @@
+/*First project CSS*/
+
+body {font-family: "Times New Roman", Times, serif;
+  font-size: 18px;)
+  height: 100vh;
+  }
+
+#first-project-column1 {
+  background-image: url(back.jpeg);
+  background-size: cover;
+  height: 100vh;
+  text-align: right;
+
+}
+p {font-size: 3em;
+color: #000000;}
+p1 { font-size: 1em;
+color: #000000;
+}
+img{ width: 25%;
+height: auto;
+}
+#first-project-column2 {
+  background-image: url(swim.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+p2 {font-size: 1em;
+color: #F5FFFA;
+}
+p3 {font-size: 3em;
+  color:#F5FFFA;
+}
+#eye {color: #000000;}
+#swimmer{color: #000000;}
+}
+
+
+
+#first-project-new_column1  {
+text-align: right;
+}
+#gb { top: 4cm;
+right: 1cm;
+position: absolute;
+width: 200px;
+border: 3px solid #000000;
+}
+
+#phoenix { position: absolute;
+bottom: 5.5cm;
+left: 2.4cm;
+width: 150px;
+border: 3px solid #000000;
+}
+
+#kress1 { position: absolute;
+  bottom: 5cm;
+  right: 3cm;
+  width: 300px;
+  border: 3px solid #000000;
+}
+
+#library { position: absolute;
+  bottom: 1cm;
+  right: 1cm;
+  width: 175px;
+  border: 3px solid #000000;
+}
+
+#class {position: absolute;
+bottom: 1cm;
+left: 4.4cm;
+width: 175px;
+border: 3px solid #000000;
+}
+
+
+
+
+
+p5 {
+font-size: 1em;
+color: #000000;
+text-align: right;
+font-weight: bold;}
+#first-project-new_column2 {color: #F0FFFF;}
+
+#swim {position: absolute;
+bottom: 1cm;
+right: 1cm;
+width: 275px;
+border: 3px solid #13C751;
+}
+
+#team { position: absolute;
+top: 3cm;
+left: 2cm;
+width: 300px;
+border: 3px solid #13C751;}
+
+.row{}
